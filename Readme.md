@@ -41,4 +41,4 @@ $ python task.py start-queue
 ```
 
 ## Postman Collection
-You can check the postman collection to run APIs [here](https://github.com/user/repo/blob/branch/other_file.md).
+You can check the postman collection to run APIs [here](https://github.com/rsharma093/messaging-queue/blob/master/apis.postman_collection.json).
